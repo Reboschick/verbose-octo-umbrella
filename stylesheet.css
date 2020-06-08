@@ -1,0 +1,42 @@
+/* Style rule for the body element */
+body{
+    background-color:yellow;
+    background-image:url(pix/bkgleather2.jpg);
+    /* Default font styling */
+    font: 10pt Arial, Helvetica, Sans-Serif;
+    color:#5d3f25;
+
+}
+
+/* Style for h1 headings */
+h1{
+   font:italic small-caps bold 24px Arial Black, Gadget, Sans-Serif;
+   text-shadow:-2px -2px 2px #a48362;
+   text-align:center;
+}
+/* Style for h2 headings */
+h2{
+   font:italic small-caps bold 18px Arial Black, Gadget, Sans-Serif;
+   text-shadow:-1px -1px 1px #a48362;
+}
+/* Style for paragraphs */
+
+
+/* Style for h1 headings */
+h1{
+   font:italic small-caps bold 24px Arial Black, Gadget, Sans-Serif;
+   text-shadow:-2px -2px 2px #a48362;
+   text-align:center;
+}
+/* Style for h2 headings */
+h2{
+   font:italic small-caps bold 18px Arial Black, Gadget, Sans-Serif;
+   text-shadow:-1px -1px 1px #a48362;
+}
+/* Style for paragraphs */
+p{
+  line-height:1.5;
+}
+p{
+  line-height:1.5;
+}
